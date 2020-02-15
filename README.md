@@ -13,10 +13,6 @@ bruteforce attack on facebook account script in python
 * mv abc.txt password.txt (replace abc with victim's name)
 * python3 fb.py
 
-## Screenshots
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
 
 ## Protection Against Attacker
 * Use Strong Password(Contain all chars + longest as possible)

@@ -9,6 +9,7 @@ bruteforce attack on facebook account script in python
 * cd Facebook-BruteForce
 * pip3 install requests bs4
 * pip install mechanize
+* chmod +x *
 * ./cupp.py -i
 * mv abc.txt password.txt (replace abc with victim's name)
 * python3 fb.py

@@ -19,8 +19,8 @@ bruteforce attack on facebook account script in python
 * Use two way authentication.
 * Make location based login(+browser based).
 
-## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
+
+
 
 ~~~
 Happy Hacking Day ! (Please do not spam it, It's Just For Knowledge ...).

@@ -11,7 +11,7 @@ bruteforce attack on facebook account script in python
 * pip install mechanize
 * chmod +x *
 * ./cupp.py -i
-* mv abc.txt password.txt (replace abc with victim's name)
+* mv abc.txt passwords.txt (replace abc with victim's name)
 * python3 fb.py
 
 

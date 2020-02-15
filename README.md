@@ -6,7 +6,7 @@ bruteforce attack on facebook account script in python
 
 ## Run commands one by one
 * git clone https://github.com/donnahurchy/FB-Bforce.git
-* cd Facebook-BruteForce
+* cd FB-Bforce
 * pip3 install requests bs4
 * pip install mechanize
 * chmod +x *
@@ -24,5 +24,5 @@ bruteforce attack on facebook account script in python
 
 
 ~~~
-Happy Hacking Day ! (Please do not spam it, It's Just For Knowledge ...).
+Happy Hacking ! (Please do not spam it, It's Just For Knowledge ...).
 ~~~
